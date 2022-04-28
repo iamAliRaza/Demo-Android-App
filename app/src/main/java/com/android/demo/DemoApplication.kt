@@ -9,7 +9,7 @@ class DemoApplication : Application() {
     companion object {
         // static object of application context
         private var appContext: Context? = null
-        fun getInstance () =  appContext ?: DemoApplication().also{ appContext = it}
+        fun getInstance () =  appContext
     }
 
     override fun onCreate() {
