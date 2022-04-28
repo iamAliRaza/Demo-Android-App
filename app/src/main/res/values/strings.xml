@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Application</string>
+    <string name="what_s_on_your_mind">What\'s on your mind..</string>
+    <string name="save">Save</string>
+    <string name="dot">…</string>
+    <string name="req_message">This field is required!</string>
+</resources>
